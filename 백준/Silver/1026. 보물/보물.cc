@@ -22,8 +22,8 @@ int main() {
     }
     
     sort(a.begin(), a.end());
-    sort(b.begin(), b.end(), greater<int>());
-//    reverse(b.begin(), b.end());
+    sort(b.begin(), b.end());
+    reverse(b.begin(), b.end());
     
     int result = 0;
     for(int i = 0; i < n; i++) {
