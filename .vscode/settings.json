@@ -1,0 +1,21 @@
+{
+  "files.associations": {
+    "ostream": "cpp",
+    "iostream": "cpp",
+    "random": "cpp",
+    "algorithm": "cpp",
+    "vector": "cpp",
+    "__locale": "cpp",
+    "string": "cpp",
+    "string_view": "cpp",
+    "bitset": "cpp",
+    "typeinfo": "cpp",
+    "chrono": "cpp",
+    "text_encoding": "cpp",
+    "__split_buffer": "cpp",
+    "deque": "cpp",
+    "ios": "cpp",
+    "queue": "cpp",
+    "stack": "cpp"
+  }
+}
